@@ -15,7 +15,7 @@ https://forums.mo.ee/viewtopic.php?t=6561
 | es | Spanish | ![UI](https://progress-bar.dev/75/) | ![Names](https://progress-bar.dev/49/) |
 | et | Estonian | ![UI](https://progress-bar.dev/70/) | ![Names](https://progress-bar.dev/0/) |
 | fr | French | ![UI](https://progress-bar.dev/80/) | ![Names](https://progress-bar.dev/67/) |
-| hu | Hungarian | ![UI](https://progress-bar.dev/65/) | ![Names](https://progress-bar.dev/0/) |
+| hu | Hungarian | ![UI](https://progress-bar.dev/72/) | ![Names](https://progress-bar.dev/5/) |
 | it | Italian | ![UI](https://progress-bar.dev/71/) | ![Names](https://progress-bar.dev/67/) |
 | ko | Korean | ![UI](https://progress-bar.dev/99/) | ![Names](https://progress-bar.dev/99/) |
 | lt | Lithuanian | ![UI](https://progress-bar.dev/28/) | ![Names](https://progress-bar.dev/15/) |
