@@ -17,11 +17,13 @@ const languages = {
   'pl': 'Polish',
   'pt': 'Portuguese',
   'pt-br': 'Brazilian Portuguese',
+  'ro': 'Romanian',
   'ru': 'Russian',
   'sk': 'Slovak',
   'sv': 'Swedish',
   'tr': 'Turkish',
   'uk': 'Ukrainian',
+  'vi': 'Vietnamese',
   'zh': 'Chinese',
   'zh-tw': 'Taiwanese',
 };

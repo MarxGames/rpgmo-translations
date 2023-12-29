@@ -23,10 +23,12 @@ https://forums.mo.ee/viewtopic.php?t=6561
 | pl | Polish | ![UI](https://progress-bar.dev/74/) | ![Names](https://progress-bar.dev/0/) |
 | pt | Portuguese | ![UI](https://progress-bar.dev/0/) | ![Names](https://progress-bar.dev/7/) |
 | pt-br | Brazilian Portuguese | ![UI](https://progress-bar.dev/91/) | ![Names](https://progress-bar.dev/88/) |
+| ro | Romanian | ![UI](https://progress-bar.dev/100/) | ![Names](https://progress-bar.dev/100/) |
 | ru | Russian | ![UI](https://progress-bar.dev/92/) | ![Names](https://progress-bar.dev/7/) |
 | sk | Slovak | ![UI](https://progress-bar.dev/57/) | ![Names](https://progress-bar.dev/17/) |
 | sv | Swedish | ![UI](https://progress-bar.dev/93/) | ![Names](https://progress-bar.dev/89/) |
 | tr | Turkish | ![UI](https://progress-bar.dev/25/) | ![Names](https://progress-bar.dev/9/) |
 | uk | Ukrainian | ![UI](https://progress-bar.dev/58/) | ![Names](https://progress-bar.dev/0/) |
+| vi | Vietnamese | ![UI](https://progress-bar.dev/0/) | ![Names](https://progress-bar.dev/0/) |
 | zh | Chinese | ![UI](https://progress-bar.dev/100/) | ![Names](https://progress-bar.dev/99/) |
 | zh-tw | Taiwanese | ![UI](https://progress-bar.dev/100/) | ![Names](https://progress-bar.dev/99/) |
