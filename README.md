@@ -11,7 +11,7 @@ https://forums.mo.ee/viewtopic.php?t=6561
 | --- | --- | --- | --- |
 | cs | Czech | ![UI](https://progress-bar.dev/72/) | ![Names](https://progress-bar.dev/43/) |
 | da | Danish | ![UI](https://progress-bar.dev/1/) | ![Names](https://progress-bar.dev/0/) |
-| de | German | ![UI](https://progress-bar.dev/97/) | ![Names](https://progress-bar.dev/100/) |
+| de | German | ![UI](https://progress-bar.dev/100/) | ![Names](https://progress-bar.dev/100/) |
 | es | Spanish | ![UI](https://progress-bar.dev/71/) | ![Names](https://progress-bar.dev/47/) |
 | et | Estonian | ![UI](https://progress-bar.dev/66/) | ![Names](https://progress-bar.dev/0/) |
 | fr | French | ![UI](https://progress-bar.dev/76/) | ![Names](https://progress-bar.dev/64/) |
