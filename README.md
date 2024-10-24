@@ -23,7 +23,7 @@ https://forums.mo.ee/viewtopic.php?t=6561
 | pl | Polish | ![UI](https://progress-bar.xyz/72/) | ![Names](https://progress-bar.xyz/0/) |
 | pt | Portuguese | ![UI](https://progress-bar.xyz/0/) | ![Names](https://progress-bar.xyz/7/) |
 | pt-br | Brazilian Portuguese | ![UI](https://progress-bar.xyz/89/) | ![Names](https://progress-bar.xyz/83/) |
-| ro | Romanian | ![UI](https://progress-bar.xyz/99/) | ![Names](https://progress-bar.xyz/99/) |
+| ro | Romanian | ![UI](https://progress-bar.xyz/100/) | ![Names](https://progress-bar.xyz/100/) |
 | ru | Russian | ![UI](https://progress-bar.xyz/90/) | ![Names](https://progress-bar.xyz/6/) |
 | sk | Slovak | ![UI](https://progress-bar.xyz/55/) | ![Names](https://progress-bar.xyz/17/) |
 | sv | Swedish | ![UI](https://progress-bar.xyz/90/) | ![Names](https://progress-bar.xyz/85/) |
