@@ -55,8 +55,8 @@ for (const language in languages) {
       }
     }
   }
-  const ui = `![UI](https://progress-bar.dev/${Math.floor(translated / total * 100)}/)`;
-  const names = `![Names](https://progress-bar.dev/${Math.floor(translatedNames / totalNames * 100)}/)`;
+  const ui = `![UI](https://progress-bar.xyz/${Math.floor(translated / total * 100)}/)`;
+  const names = `![Names](https://progress-bar.xyz/${Math.floor(translatedNames / totalNames * 100)}/)`;
   statuses.push(`| ${language} | ${languages[language]} | ${ui} | ${names} |`);
 }
 
