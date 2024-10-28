@@ -27,7 +27,7 @@ https://forums.mo.ee/viewtopic.php?t=6561
 | ru | Russian | ![UI](https://progress-bar.xyz/90/) | ![Names](https://progress-bar.xyz/6/) |
 | sk | Slovak | ![UI](https://progress-bar.xyz/55/) | ![Names](https://progress-bar.xyz/17/) |
 | sv | Swedish | ![UI](https://progress-bar.xyz/90/) | ![Names](https://progress-bar.xyz/85/) |
-| tr | Turkish | ![UI](https://progress-bar.xyz/28/) | ![Names](https://progress-bar.xyz/9/) |
+| tr | Turkish | ![UI](https://progress-bar.xyz/100/) | ![Names](https://progress-bar.xyz/100/) |
 | uk | Ukrainian | ![UI](https://progress-bar.xyz/57/) | ![Names](https://progress-bar.xyz/0/) |
 | vi | Vietnamese | ![UI](https://progress-bar.xyz/0/) | ![Names](https://progress-bar.xyz/0/) |
 | zh | Chinese | ![UI](https://progress-bar.xyz/100/) | ![Names](https://progress-bar.xyz/100/) |
