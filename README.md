@@ -12,7 +12,7 @@ https://forums.mo.ee/viewtopic.php?t=6561
 | cs | Czech | ![UI](https://progress-bar.xyz/72/) | ![Names](https://progress-bar.xyz/42/) |
 | da | Danish | ![UI](https://progress-bar.xyz/1/) | ![Names](https://progress-bar.xyz/0/) |
 | de | German | ![UI](https://progress-bar.xyz/100/) | ![Names](https://progress-bar.xyz/100/) |
-| es | Spanish | ![UI](https://progress-bar.xyz/100/) | ![Names](https://progress-bar.xyz/55/) |
+| es | Spanish | ![UI](https://progress-bar.xyz/100/) | ![Names](https://progress-bar.xyz/100/) |
 | et | Estonian | ![UI](https://progress-bar.xyz/64/) | ![Names](https://progress-bar.xyz/0/) |
 | fr | French | ![UI](https://progress-bar.xyz/74/) | ![Names](https://progress-bar.xyz/61/) |
 | hu | Hungarian | ![UI](https://progress-bar.xyz/67/) | ![Names](https://progress-bar.xyz/5/) |
